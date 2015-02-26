@@ -19,3 +19,4 @@ Each movie is approximately 100 MB:
 - [thickness vs. cathode-related Bx change, right hem](https://www.dropbox.com/s/ovossli1e4vks6z/RH_corr_spearman_cathode.mov?dl=1)
 - [thickness vs. cathode-related Bx change, left hem](https://www.dropbox.com/s/r7w2tr29em41pll/LH_corr_spearman_cathode.mov?dl=1)
 
+![sampleVis-corticalThicknessCorr](sampleVis-corticalThicknessCorr.001.png?raw=true "Sample visualization of cortical thickness correlation")
