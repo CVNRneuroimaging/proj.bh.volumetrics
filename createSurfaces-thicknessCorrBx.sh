@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 # LOCATION:     ~/src.mywork.gitRepos/proj.bh.volumetrics/createSurfaces-thicknessCorrBx.sh
 # USAGE:        Uncomment fxn calls in body as needed and execute without arguments.
